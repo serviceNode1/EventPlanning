@@ -60,6 +60,5 @@ Founders decided to de-risk the full venture by first running a **near-term pilo
 
 ## Decisions Still Needed From Founders (ask when relevant section comes up)
 - Which specific counties (once we shortlist candidates) are founders able to visit/evaluate in person?
-- **Minors policy**: given Kentucky cannot enforce parent-signed waivers for minors at a for-profit business (real legal fact, not a suggestion), decide whether events (at least combat-participation ones) are 18+ only, at least in KY.
 - Alcohol service: include as Year 1 revenue line or defer (adds liquor license + well-water certification delay per §4.2)?
 - **Founder equity split**: actual founder count (3-5 stated) and each person's expected time/capital contribution not yet defined — needed to finalize `06-Org-Structure-and-Governance.md` §7.2 percentages (methodology is drafted, real numbers are not).
